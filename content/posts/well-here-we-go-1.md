@@ -2,7 +2,7 @@
 title: Well Here We Go
 subtitle: It's just a start
 category:
-  - Third Party Integrations
+  - Life
 author: Don Hogan
 date: 2020-02-18T04:45:48.002Z
 featureImage: uploads/home-hero.jpg
